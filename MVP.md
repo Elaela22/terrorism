@@ -58,8 +58,13 @@ My gradient boost model is very predictive, but not easily interpretable. I reco
 
 1. No need to increase #s of police in the U.S. Globally, having a sufficient police force is very predictive for thwarting terror attacks, but the US is already past the threshold of sufficient numbers, and there's no evidence more would help us.
 2. Use the created gradient boost model to look at different scenarios and prioritize different situations (i.e. feature interactions) accordingly
-2. Most terror attacks in the U.S. are thwarted because someone noticed an explosive. Educate the public on suspicious things to look for, especially in these places:
+3. Most terror attacks in the U.S. are thwarted because someone noticed an explosive. Educate the public on suspicious things to look for, especially in these places:
  * Highly trafficked areas, like public transit in major cities
  * Churches, synagogues, temples, and mosques
  * Government buildings, like courthouses
  * Planned Parenthoods
+* In the U.S., increase security in important locations during the months with a greater percentage of terror success:
+ * February (95% success)
+ * March (100% success)
+ * April (95% success)
+* In the U.S., the month with the highest percentage of terror *failure* is October, with 80.9% succeeding.
