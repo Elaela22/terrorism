@@ -63,8 +63,8 @@ My gradient boost model is very predictive, but not easily interpretable. I reco
  * Churches, synagogues, temples, and mosques
  * Government buildings, like courthouses
  * Planned Parenthoods
-* In the U.S., increase security in important locations during the months with a greater percentage of terror success:
+4. In the U.S., increase security in important locations during the months with a greater percentage of terror success:
  * February (95% success)
  * March (100% success)
  * April (95% success)
-* In the U.S., the month with the highest percentage of terror *failure* is October, with 80.9% succeeding.
+5. In the U.S., the month with the highest percentage of terror *failure* is October, with 80.9% succeeding.
