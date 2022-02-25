@@ -21,8 +21,13 @@ I used ROC-AUC as my guiding metric, in order to make sure my model predicts fai
 ### Data
 I used data from the Global Terrorism Database from the University of Maryland, which logs all terror attacks recorded since the 1970s globally (hundreds of thousands of rows). I also used global data on police numbers, GDP, and population. There are over a hundred features, including location data, attack type, and data on the victims and perpetrators. The target is binary - success/failure of an attempted attack.
 
-### Tools
-* XGBoost Classifier from sklearn for predictive model
+### Tools and Algorithms
+* XGBoost Classifier from sklearn for final predictive model
+* Logistic regression and knn models from sklearn
+* Pipeline from sklearn
+* Column transformer from sklearn 
+* One hot encoder and standard scaler from sklearn
+* Metrics from sklearn
 * Python, pandas, and numpy for exploratory data analysis
 * Visualizations using matplotlib
 
